@@ -1,0 +1,12 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Ali Sajid Imami",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "Ali.Sajid.Imami@gmail.com",
+  "friendly_name": "ORCiD Publication Pull Github Action",
+  "github_user": "AliSajid",
+  "license": "GPL-3.0",
+  "package_name": "orcid_publication_pull",
+  "project_name": "orcid-publication-pull",
+  "version": "0.0.1"
+}
